@@ -13,5 +13,5 @@
 
   - imagenes del proyecto
 
-- Se creara el archivo .igtignore
+- Se creara el archivo .gitignore
 - Tambien el archivo README.md
